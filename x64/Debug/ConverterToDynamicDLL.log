@@ -1,0 +1,7 @@
+﻿  Config.cpp
+C:\Users\cyril_louisin\source\repos\ConfigToAsset\Source\Config.cpp(168,3): warning C4267: 'argument' : conversion de 'size_t' en 'const _Elem', perte possible de données
+          with
+          [
+              _Elem=char
+          ]
+  ConverterToDynamicDLL.vcxproj -> C:\Users\cyril_louisin\source\repos\ConfigToAsset\x64\Debug\ConverterToDynamicDLL.exe

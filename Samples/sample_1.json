@@ -1,0 +1,32 @@
+{
+  "schema": {
+    "ma_key": "STRING",
+    "second_key": "INT32",
+    "my_array": "ARRAY",
+    "my_dict": "DICT",
+
+    "#my_array": "INT",
+
+    "#my_dict": {
+      "key_1": "STRING",
+      "key_2": "INT32",
+      "key_3": "ARRAY"
+    },
+
+    "##key_3":  "STRING"
+  },
+  "config": [
+    {
+      "ma_key": "ma key est de valeur ;)",
+      "second_key": 12,
+      "my_array": [
+        1,
+        2
+      ],
+      "my_dict": {
+        "key_1": "toto",
+        "key_2": 21
+      }
+    }
+  ]
+}

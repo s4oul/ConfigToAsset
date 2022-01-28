@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3dd168c1-29e4-4e78-871b-1c48c963074b": {
+      "ProjectGuid": "3dd168c1-29e4-4e78-871b-1c48c963074b",
+      "DisplayName": "ConverterToDynamicDLL",
+      "ColorIndex": 0
+    },
+    "f0d56018-08c3-47cb-a9e4-30e66d92ebc5": {
+      "ProjectGuid": "f0d56018-08c3-47cb-a9e4-30e66d92ebc5",
+      "DisplayName": "Samples",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
